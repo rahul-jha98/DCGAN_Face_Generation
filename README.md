@@ -6,3 +6,6 @@ The model was trained for 80 epochs.
 ![](assets/model_behaviour.gif)
 
 
+
+#### Here's a sample of the generated faces on random noise after 80 epochs.
+![](assets/output.png)
